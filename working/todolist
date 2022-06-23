@@ -1,5 +1,5 @@
-L13: add cross validation
+L13: add cross validation. OK
 L14: do stuff. add pca 
-L17part2: check if there is GPR cross val -> why all the cv results seem to be overfitting the data?
+L17part2: why all the cv results seem to be overfitting the data?
 L19: questions about the RR Lyrae stars example + try more methods (GMM Bayes)
 L20: exercise of the lecture using Gini, LIGO: try with neural networks or 'Another idea'
