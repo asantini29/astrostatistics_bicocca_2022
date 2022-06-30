@@ -1,8 +1,10 @@
 L4: further explore the distribution of quasars
 L14: do stuff. add pca, check ms
-L19: questions about the RR Lyrae stars example + try more methods (GMM Bayes)
+L19: questions about the RR Lyrae stars example
 L20: exercise of the lecture using Gini, LIGO: try with neural networks or 'Another idea'
 #--------
 ?
 L14: mean shift
 L19: difference between gridsearch and cross val predict
+     why do we have to decrease the lr in nn?
+
